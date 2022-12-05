@@ -1,2 +1,2 @@
-# Google-Data-Analytics-Capstone
-Data Analytics - Capstone (Case Study)
+# Google Data Analytics - Capstone
+Case Study report (R Studio) - "Cyclistic" project
